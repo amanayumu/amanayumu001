@@ -1,46 +1,18 @@
- <h1>練習問題3,1</h1>
-<!DOCTYPE　html>                      
-<html lang="ja">
- <head>
-  <meta charset="UTF-8">
-  <title>アンカータグの練習</title>
- </head>
- <body>
-  <P>アンカータグの練習です</P>
- </body>
-</html>
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-<meta charset=2UTF-8">
-<title>アンカータグの練習</title>
-</head>
-<body>
-<p>アンカータグの練習です
-</p>
-</body>
-<html>
-<h1>練習問題3.3</h1>
- <li>ほにゃらら</li>
-</ol>
- <a id="abc">ここがabcの場所</a>
- <dl>
-  <dt>作者</dt>
-<body>
- <p>アンカータグの練習です。</p>
- <a id="def">ここがdefの場所</a>
-</body>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>アンカータグの練習</title>
+  </head>
+  <body>
+  <p>アンカータグの練習です。</p>
+  </body>
+  </html>
+<h1>練習問題3.1</</h1>
 
-<h1>練習問題3.5</h1>
- <body>
-<nav>
- <ul>
-  <li><a href="https://sports.josai.ac.jp/club/jyosisohuto/">女子ソフトボール部</a></li>
-  <li><a href="https://sports.josai.ac.jp/club/dansiekiden/男子駅伝部</a></li>
-  <li><a href="https://sports.josai.ac.jp/club/josiekiden/女子駅伝部</a></li>
-  </ul>
-</nav>
- </body>
+<a href="a.html">相対パスでリンクします</a><br>
+<a href=https://www.josai.sc.jp/management/>絶対パスで城西大学経営学部へリンクします。</a><br>
+<a href="mailto:zm23489@josai.ac.jp">自分宛メール(zm23489@josai.ac.jp)</a><br>
+<a href="https://www.josai.ac.jp/management/">
 
-</html>
+<img src="./image/keiei_small.jpg" alt="城西大学経営学部"></a>
